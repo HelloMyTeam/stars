@@ -24,3 +24,8 @@
 [ZYCornerRadius，居然优化了圆角显示](https://github.com/liuzhiyi1992/ZYCornerRadius)
 
 [iOS_ICE_AND_FIRE，冰指的是用户态，火指的是内核态。如何突破像冰箱一样的用户态沙盒最终到达并控制如火焰一般燃烧的内核就是《iOS冰与火之歌》这一系列文章将要讲述的内容](https://github.com/liuzhiyi1992/ZYCornerRadius)
+
+[深圳，自动build，打包ipa工具，支持上传到内测平台，包括蒲公英。AFNetworking 的作者 mattt 大大的 shenzhen （没错，就是深圳）](https://github.com/nomad/shenzhen)
+
+[使用Python写的自动打包，比较简单，可以学习下](https://github.com/carya/Util)，[博客地址](http://liumh.com/2015/11/25/ios-auto-archive-ipa/)
+
