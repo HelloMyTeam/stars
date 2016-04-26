@@ -1,6 +1,8 @@
 # stars
 很多时候收藏了一个类库，过些时间就找不到了，记录下收藏的类库。先随意，有时间在整理
 
+[update_xcode_plugins，更新插件。每当Xcode更新了后，就得更新插件，用这货方便](https://github.com/inket/update_xcode_plugins)
+
 [RDM设置屏幕分辨率，可以设置显示retain效果](https://github.com/avibrazil/RDM)
 
 [Typeset，对创建AttributedString的封装OC版](https://github.com/Draveness/Typeset)
