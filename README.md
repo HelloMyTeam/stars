@@ -33,3 +33,12 @@
 
 [使用Python写的自动打包，比较简单，可以学习下](https://github.com/carya/Util)，[博客地址](http://liumh.com/2015/11/25/ios-auto-archive-ipa/)
 
+[XcodeEditor,An API for manipulating Xcode project files.](https://github.com/appsquickly/XcodeEditor)
+
+[GSKStretchyHeaderView,A generic stretchy header for UITableView and UICollectionView](https://github.com/gskbyte/GSKStretchyHeaderView)
+
+[bilibili-mac-client,Mac 在线视频播放器](https://github.com/typcn/bilibili-mac-client)
+
+[FakeWeChatLoc,手把手教你制作一款iOS越狱App](https://github.com/jackrex/FakeWeChatLoc)
+
+
