@@ -43,4 +43,5 @@
 
 [360 VR Player,一款开源的360度播放器](https://github.com/hanton/HTY360Player)
 
+[iOS-Developer-Documents-Chinese，中文iOS开发文档](https://github.com/iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese)
 
