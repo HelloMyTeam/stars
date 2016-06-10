@@ -41,4 +41,6 @@
 
 [FakeWeChatLoc,手把手教你制作一款iOS越狱App](https://github.com/jackrex/FakeWeChatLoc)
 
+[360 VR Player,一款开源的360度播放器](https://github.com/hanton/HTY360Player)
+
 
