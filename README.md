@@ -47,3 +47,15 @@
 
 [CoreNavVC导航栏相关](https://github.com/CharlinFeng/CoreNavVC)
 
+[数学公式](https://github.com/kostub/iosMath)
+
+[WordPress iOS客户端](https://github.com/wordpress-mobile/WordPress-iOS)
+
+[密码管理](https://github.com/Lyndir/MasterPassword)
+
+[截图处理](https://github.com/hackiftekhar/IQScreenRuler)
+
+[游戏](https://github.com/OpenEmu/OpenEmu)
+
+
+
