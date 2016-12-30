@@ -60,3 +60,4 @@
 [iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 ](https://github.com/jobbole/awesome-ios-cn)
 
+[LICEcap，Mac、Windows录制GIF软件](https://github.com/justinfrankel/licecap)
