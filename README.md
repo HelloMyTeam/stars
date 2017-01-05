@@ -61,3 +61,5 @@
 ](https://github.com/jobbole/awesome-ios-cn)
 
 [LICEcap，Mac、Windows录制GIF软件](https://github.com/justinfrankel/licecap)
+
+[IQKeyboardManager，iOS 键盘管理，可以方便的跳转到下一个UITextField/UITextView，同时视图也跟着移动，视图不会被键盘遮挡](https://github.com/hackiftekhar/IQKeyboardManager)
