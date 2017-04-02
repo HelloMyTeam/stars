@@ -24,7 +24,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.page = 1;
+    self.page = 0;
     self.view.backgroundColor = [UIColor whiteColor];
     CGFloat width = CGRectGetWidth([UIScreen mainScreen].bounds);
     UISearchBar *searchBar = [[UISearchBar alloc] initWithFrame:CGRectMake(0, 0, width, 44)];
@@ -60,28 +60,39 @@
     if (userName.length == 0) {
         return;
     }
-    
+    self.page++;
+    static NSString *content = @"";
+    if (self.page == 1) {
+        content = @"";
+    }
     // 暂时用缓存
-//    NSData *data = [NSData dataWithContentsOfFile:[self filePath]];
-//    if (data) {
-//        NSString *content = @"";
-//        NSLog(@"file -->> %@",[self filePath]);
-//        
-//       NSArray *datas = [self htmlParser:data];
-//        for (MyStarsModel *model in datas) {
-//            NSString *title = [[model.title componentsSeparatedByString:@"/"] lastObject];
-//            content = [NSString stringWithFormat:@"%@[%@-->%@](https://github.com/%@)\n\n",content,title, model.detail,model.title];
-//        }
-//        NSError *error = nil;
-//        
-//        [content writeToFile:[self mdFilePaht] atomically:YES encoding:NSUTF8StringEncoding error:&error];
-//        if (error) {
-//            NSLog(@"write error -->> %@",error);
-//        } else {
-//            NSLog(@"write succeed");
-//        }
-//        return;
-//    }
+    NSData *data = [NSData dataWithContentsOfFile:[self filePathWith:self.page]];
+    if (data) {
+        NSLog(@"file -->> %@",[self filePathWith:self.page]);
+        
+       NSArray *datas = [self htmlParser:data];
+        for (MyStarsModel *model in datas) {
+            NSString *title = [[model.title componentsSeparatedByString:@"/"] lastObject];
+            content = [NSString stringWithFormat:@"%@[%@-->%@](https://github.com/%@)\n\n",content,title, model.detail,model.title];
+        }
+        
+        if (self.page < 23) {
+            [self fetchHTML];
+        } else {
+        }
+        NSError *error = nil;
+        
+        [content writeToFile:[self mdFilePaht] atomically:YES encoding:NSUTF8StringEncoding error:&error];
+        if (error) {
+            NSLog(@"write error -->> %@",error);
+        } else {
+            NSLog(@"write succeed");
+        }
+        
+        return;
+    } else {
+        return;
+    }
     // https://github.com/hello--world?page=1&tab=stars
     NSString *url = [NSString stringWithFormat:@"https://github.com/%@?page=%@&tab=stars",userName, @(self.page)];
     
@@ -95,7 +106,6 @@
         
         BOOL isSucceed = [responseObject writeToFile:[self filePathWith:self.page] atomically:YES];
         NSLog(@"isSucceed --> %@",@(isSucceed));
-        self.page++;
         
         if (self.page < 23) {
             
