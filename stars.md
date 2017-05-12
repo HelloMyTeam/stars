@@ -1,3 +1,19 @@
+[UIView-draggable-->        UIView category that adds dragging capabilities      ](https://github.com//andreamazz/UIView-draggable)
+
+[CoreDragon-->        [iOS] Stop using context menus. Drag and drop instead, even between apps!      ](https://github.com//nevyn/CoreDragon)
+
+[RACollectionViewReorderableTripletLayout-->        The custom collectionView layout that can perform reordering of cells by dragging it.      ](https://github.com//ra1028/RACollectionViewReorderableTripletLayout)
+
+[MMTextFieldEffects-->        Extension of TextFieldEffects with Custom UITextFields effects inspired by Codrops, built using Objective-C      ](https://github.com//mukyasa/MMTextFieldEffects)
+
+[kcptun-->        A Secure Tunnel Based On KCP with N:M Multiplexing      ](https://github.com//xtaci/kcptun)
+
+[kcptun_installer-->        Kcptun一键安装脚本      ](https://github.com//kuoruan/kcptun_installer)
+
+[FastttCamera-->        Fasttt and easy camera framework for iOS with customizable filters      ](https://github.com//IFTTT/FastttCamera)
+
+[SCRecorder-->        iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing      ](https://github.com//rFlex/SCRecorder)
+
 [og-aws-->        📙 Amazon Web Services — a practical guide      ](https://github.com//open-guides/og-aws)
 
 [setup-ipsec-vpn-->        Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS      ](https://github.com//hwdsl2/setup-ipsec-vpn)
@@ -78,7 +94,7 @@
 
 [RATreeView-->        Library providing easy-to-use interface for displaying tree structures on iOS and tvOS.      ](https://github.com//Augustyniak/RATreeView)
 
-[apple-ios-samples-->(null)](https://github.com//robovm/apple-ios-samples)
+[apple-ios-samples-->](https://github.com//robovm/apple-ios-samples)
 
 [ProvisionQL-->        Quick Look plugin for .ipa and .mobileprovision      ](https://github.com//ealeksandrov/ProvisionQL)
 
@@ -118,7 +134,7 @@
 
 [BaiduExporter-->        Assistant for Baidu to export download links to aria2/aria2-rpc      ](https://github.com//acgotaku/BaiduExporter)
 
-[openresty-best-practices-->(null)](https://github.com//moonbingbing/openresty-best-practices)
+[openresty-best-practices-->](https://github.com//moonbingbing/openresty-best-practices)
 
 [LiveExplanation-->        直播技术的总结      ](https://github.com//tiantianlan/LiveExplanation)
 
@@ -164,7 +180,7 @@
 
 [iOS-Images-Extractor-->        A Mac app to decode and extract images from iOS apps, support png/jpg/ipa/Assets.car files.      ](https://github.com//devcxm/iOS-Images-Extractor)
 
-[LiveVideoCoreSDK-->(null)](https://github.com//runner365/LiveVideoCoreSDK)
+[LiveVideoCoreSDK-->](https://github.com//runner365/LiveVideoCoreSDK)
 
 [WYChart-->        A simple and elegant Chart library with rich animations.      ](https://github.com//GeorgeWang03/WYChart)
 
@@ -214,7 +230,7 @@
 
 [hexo-qiniu-sync-->        Hexo七牛同步插件      ](https://github.com//gyk001/hexo-qiniu-sync)
 
-[iOS-Echarts-->(null)](https://github.com//Pluto-Y/iOS-Echarts)
+[iOS-Echarts-->](https://github.com//Pluto-Y/iOS-Echarts)
 
 [dupeguru-->        Find duplicate files. On Linux and Mac OS X      ](https://github.com//hsoft/dupeguru)
 
@@ -222,7 +238,7 @@
 
 [shuttle-->        A simple SSH shortcut menu for macOS      ](https://github.com//fitztrev/shuttle)
 
-[CloudGate-Shadowrocket-->(null)](https://github.com//BurpSuite/CloudGate-Shadowrocket)
+[CloudGate-Shadowrocket-->](https://github.com//BurpSuite/CloudGate-Shadowrocket)
 
 [YAAW-for-Chrome-->        Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt Powered by Chrome      ](https://github.com//acgotaku/YAAW-for-Chrome)
 
@@ -234,7 +250,7 @@
 
 [gfwlist2potatso-->        Convert GFWList to Potatso conf file      ](https://github.com//s7lx/gfwlist2potatso)
 
-[CloudGate-Potatso-->(null)](https://github.com//BurpSuite/CloudGate-Potatso)
+[CloudGate-Potatso-->](https://github.com//BurpSuite/CloudGate-Potatso)
 
 [mackup-->        Keep your application settings in sync (OS X/Linux)      ](https://github.com//lra/mackup)
 
@@ -282,7 +298,7 @@
 
 [libssh2-->        the SSH library      ](https://github.com//libssh2/libssh2)
 
-[z-->        z is the new j, yo      ](https://github.com//rupa/z)
+[z-->        z - jump around      ](https://github.com//rupa/z)
 
 [v2ex-go-->        A simple V2EX client on terminal written in Go.      ](https://github.com//six-ddc/v2ex-go)
 
@@ -394,7 +410,7 @@
 
 [iOSOpenDev-->        iOSOpenDev      ](https://github.com//kokoabim/iOSOpenDev)
 
-[PokemonHook-->(null)](https://github.com//rpplusplus/PokemonHook)
+[PokemonHook-->](https://github.com//rpplusplus/PokemonHook)
 
 [iOSAppHook-->        专注于非越狱环境下iOS应用逆向研究，从dylib注入，应用重签名到App Hook      ](https://github.com//Urinx/iOSAppHook)
 
@@ -432,7 +448,7 @@
 
 [SAVideoRangeSlider-->        iOS Video trim control      ](https://github.com//andrei200287/SAVideoRangeSlider)
 
-[iOS-Developer-Documents-Chinese-->(null)](https://github.com//iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese)
+[iOS-Developer-Documents-Chinese-->](https://github.com//iOS-Developer-Documents-Chinese/iOS-Developer-Documents-Chinese)
 
 [PINRemoteImage-->        A thread safe, performant, feature rich image fetcher      ](https://github.com//pinterest/PINRemoteImage)
 
@@ -442,7 +458,7 @@
 
 [DZNEmptyDataSet-->        A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display      ](https://github.com//dzenbot/DZNEmptyDataSet)
 
-[JRDB-->(null)](https://github.com//scubers/JRDB)
+[JRDB-->](https://github.com//scubers/JRDB)
 
 [nginx-rtmp-module-->        NGINX-based Media Streaming Server      ](https://github.com//arut/nginx-rtmp-module)
 
@@ -510,7 +526,7 @@
 
 [cow-->        HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.      ](https://github.com//cyfdecyf/cow)
 
-[shadowsocks-->(null)](https://github.com//shadowsocks/shadowsocks)
+[shadowsocks-->](https://github.com//shadowsocks/shadowsocks)
 
 [gold-miner-->        掘金翻译计划，翻译掘金上优质的英文文章      ](https://github.com//xitu/gold-miner)
 
@@ -1080,9 +1096,9 @@
 
 [STTweetLabel-->        Deprecated - A UILabel with #hashtag @handle and links tappable      ](https://github.com//SebastianThiebaud/STTweetLabel)
 
-[TTCounterLabel-->(null)](https://github.com//Triggertrap/TTCounterLabel)
+[TTCounterLabel-->](https://github.com//Triggertrap/TTCounterLabel)
 
-[YetiCharacterLabelExample-->(null)](https://github.com//hulsizer/YetiCharacterLabelExample)
+[YetiCharacterLabelExample-->](https://github.com//hulsizer/YetiCharacterLabelExample)
 
 [iOS-Headers-->        iOS 5.0/5.1/6.0/6.1/7.0/7.1/8.0/8.1 Headers of All Frameworks (private and not) + SpringBoard      ](https://github.com//MP0w/iOS-Headers)
 
@@ -1172,7 +1188,7 @@
 
 [CBStoreHouseRefreshControl-->        Fully customizable pull-to-refresh control inspired by Storehouse iOS app      ](https://github.com//coolbeet/CBStoreHouseRefreshControl)
 
-[KoaPullToRefresh-->(null)](https://github.com//sergigracia/KoaPullToRefresh)
+[KoaPullToRefresh-->](https://github.com//sergigracia/KoaPullToRefresh)
 
 [XHRefreshControl-->        XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件。      ](https://github.com//xhzengAIB/XHRefreshControl)
 
@@ -1184,7 +1200,7 @@
 
 [AnimatedGIFImageSerialization-->        Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling      ](https://github.com//mattt/AnimatedGIFImageSerialization)
 
-[CLImageEditor-->(null)](https://github.com//yackle/CLImageEditor)
+[CLImageEditor-->](https://github.com//yackle/CLImageEditor)
 
 [ELCImagePickerController-->        A clone of the UIImagePickerController using the Assets Library Framework allowing for multiple asset selection      ](https://github.com//B-Sides/ELCImagePickerController)
 
@@ -1250,7 +1266,7 @@
 
 [VENCalculatorInputView-->        Calculator keyboard used in the Venmo iOS app      ](https://github.com//venmo/VENCalculatorInputView)
 
-[WCFastCell-->(null)](https://github.com//wokalski/WCFastCell)
+[WCFastCell-->](https://github.com//wokalski/WCFastCell)
 
 [TDBadgedCell-->        TDBadgedCell is a table view cell class that adds a badge, similar to the badges in Apple's own apps      ](https://github.com//tmdvs/TDBadgedCell)
 
@@ -1272,7 +1288,7 @@
 
 [BMXSwipableCell-->        A custom UITableViewCell that supports swipe to reveal (similar to iOS7 Mail App)      ](https://github.com//mbigatti/BMXSwipableCell)
 
-[BORSwipableCell-->(null)](https://github.com//BohdanOrlov/BORSwipableCell)
+[BORSwipableCell-->](https://github.com//BohdanOrlov/BORSwipableCell)
 
 [CADRACSwippableCell-->        Swippable CollectionView cells made with Reactive Cocoa.      ](https://github.com//joanromano/CADRACSwippableCell)
 
