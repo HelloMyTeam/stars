@@ -32,7 +32,7 @@
 
 [ss.conf-for-surge-->        Generate ss.conf for Surge       ](https://github.com//R0uter/ss.conf-for-surge)
 
-[shadowsocks-->(null)](https://github.com//shadowsocks/shadowsocks)
+[shadowsocks-->](https://github.com//shadowsocks/shadowsocks)
 
 [Util-->        Some useful util      ](https://github.com//carya/Util)
 

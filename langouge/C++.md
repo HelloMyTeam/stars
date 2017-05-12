@@ -1,4 +1,4 @@
-[LiveVideoCoreSDK-->(null)](https://github.com//runner365/LiveVideoCoreSDK)
+[LiveVideoCoreSDK-->](https://github.com//runner365/LiveVideoCoreSDK)
 
 [oclint-->        A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C      ](https://github.com//oclint/oclint)
 

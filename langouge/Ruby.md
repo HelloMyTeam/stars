@@ -4,7 +4,7 @@
 
 [fastlane-->        🚀 The easiest way to automate building and releasing your iOS and Android apps      ](https://github.com//fastlane/fastlane)
 
-[PokemonHook-->(null)](https://github.com//rpplusplus/PokemonHook)
+[PokemonHook-->](https://github.com//rpplusplus/PokemonHook)
 
 [cocoapods-keys-->        A key value store for storing per-developer environment and application keys      ](https://github.com//orta/cocoapods-keys)
 
